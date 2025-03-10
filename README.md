@@ -1,6 +1,6 @@
 # Lisp Exercises
 
-This repository contains my exercises and practice scripts for learning **Common Lisp**.
+This repository contains my exercises and practice scripts for learning **Common Lisp**. The exercises are taken from the book _[Structure and Interpretation of Computer Programs (2nd edition)](https://web.mit.edu/6.001/6.037/sicp.pdf)_ by **Harold Abelson and Gerald Jay Sussman with Julie Sussman**.
 
 ## 📜 Overview
 
